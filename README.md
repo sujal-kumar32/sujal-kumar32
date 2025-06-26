@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Sujal Kumar</h1>
 <h3 align="center">🧠 Tech Explorer | 🤖 AI Builder | 🌌 SpaceTech Enthusiast</h3>
 
@@ -56,11 +57,19 @@
 
 ---
 
+## 🔥 Awesome Profile Features
+
+- ✨ Badges, charts, and icons inspired by:
+  - [Anurag Hazra - GitHub Stats](https://github.com/anuraghazra/github-readme-stats)
+  - [Kautuk Kundan - Awesome Profile README](https://github.com/kautukkundan/Awesome-Profile-README-templates)
+
+---
+
 ## 📬 Let's Connect
 
 <p align="center">
-  <a href="mailto:sualstark12345@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/sujal-kumar-5b48a331a"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/sujal-kumar32"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
