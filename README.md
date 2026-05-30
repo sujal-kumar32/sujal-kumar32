@@ -67,18 +67,20 @@ Tools       →  Git · GitHub · VSCode · Figma · Android Studio
 
 ### GitHub activity
 
+
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sujal-kumar32&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&count_private=true" alt="Stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujal-kumar32&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Languages"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sujal-kumar32&show_icons=true&theme=radical&hide_border=true" alt="Stats"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujal-kumar32&layout=compact&theme=radical&hide_border=true" alt="Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sujal-kumar32&theme=dark&hide_border=true&background=0d1117" alt="Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sujal-kumar32&theme=radical&hide_border=true" alt="Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sujal-kumar32&theme=onedark&no-frame=true&row=1&column=6" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sujal-kumar32&theme=radical&no-frame=true&row=1&column=6" alt="Trophies"/>
 </p>
+
 
 ---
 
